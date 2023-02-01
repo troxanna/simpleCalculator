@@ -265,6 +265,7 @@ class ViewController: UIViewController {
             processingError(error: error)
         }
         currentOperator = nil
+        savedValue = nil
     }
     
     
